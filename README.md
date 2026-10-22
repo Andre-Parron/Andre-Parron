@@ -22,6 +22,7 @@ const eu = {
 - 🔭 Agora estou finalizando meu ensino médio ja com um pezinho na faculdade
 - 🤝 Aceito ajuda, dicas e parcerias em projetos pequenos
 
+
 ## 🧰 Ferramentas que uso (ou estou aprendendo)
 
 <p align="center">
@@ -35,7 +36,6 @@ const eu = {
 </p>
 
 
-> 💬 Cada projeto aqui é um degrau. Os maiores vêm depois.
 
 ## 📫 Vamos conversar?
 
