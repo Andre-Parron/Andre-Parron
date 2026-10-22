@@ -40,7 +40,7 @@ const eu = {
 ## 📫 Vamos conversar?
 
 - 📧 E-mail: mail:andreparron2009@gmail.com
-- 📖 Lattes:  (https://lattes.cnpq.br/7015499608530537)
-- 💼 LinkedIn: (https://www.linkedin.com/in/andre-parron/)
+- 📖 Lattes:  https://lattes.cnpq.br/7015499608530537
+- 💼 LinkedIn: https://www.linkedin.com/in/andre-parron/
 
 
