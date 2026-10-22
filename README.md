@@ -1,4 +1,4 @@
-<h1 align="center">Olá, mundo! 👋 Eu me chamo André</h1>
+<h1 align="center">Olá, mundo!</h1>
 
 <p align="center">
   <i>"Ainda não tenho projetos gigantes, mas tenho curiosidade, constância e muito commit pela frente."</i>
