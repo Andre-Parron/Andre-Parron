@@ -32,21 +32,14 @@ const eu = {
 
 <p align="center">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white](https://img.shields.io/badge/Claude_Code-555?logo=claude)"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_Code-555?logo=claude"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
-> Troque pelos badges que combinam com você em [shields.io](https://shields.io) ou [simpleicons.org](https://simpleicons.org).
-
-
-## 📌 Projetos (pequenos, mas reais)
-
-| Projeto | O que faz | Tecnologias |
-|---------|-----------|-------------|
-| [**nome-do-projeto**](link) | [uma frase simples] | `[tech]` |
-| [**outro-projeto**](link) | [uma frase simples] | `[tech]` |
 
 > 💬 Cada projeto aqui é um degrau. Os maiores vêm depois.
 
