@@ -17,11 +17,6 @@ const eu = {
 };
 ```
 
-## 🌱 Jornada atual
-
-- 🔭 Agora estou finalizando meu ensino médio ja com um pezinho na faculdade
-- 🤝 Aceito ajuda, dicas e parcerias em projetos pequenos
-
 
 ## 🧰 Ferramentas que uso (ou estou aprendendo)
 
@@ -36,15 +31,16 @@ const eu = {
 </p>
 
 
+## 🌱 Jornada atual
+
+- 🔭 Agora estou finalizando meu ensino médio ja com um pezinho na faculdade
+- 🤝 Aceito ajuda, dicas e parcerias em projetos pequenos
+
 
 ## 📫 Vamos conversar?
 
+- 📧 E-mail: mail:andreparron2009@gmail.com
 - 📖 Lattes:  (https://lattes.cnpq.br/7015499608530537)
 - 💼 LinkedIn: (https://www.linkedin.com/in/andre-parron/)
-- 📧 E-mail: mail:andreparron2009@gmail.com
 
----
 
-<p align="center">
-  <i>Feito com ☕, tentativa e erro, e muita vontade de aprender.</i>
-</p>
