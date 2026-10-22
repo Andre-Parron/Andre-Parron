@@ -1,4 +1,4 @@
-<h1 align="center">Olá, mundo! 👋 Eu sou o/a [SEU NOME]</h1>
+<h1 align="center">Olá, mundo! 👋 Eu me chamo André</h1>
 
 <p align="center">
   <i>"Ainda não tenho projetos gigantes, mas tenho curiosidade, constância e muito commit pela frente."</i>
@@ -16,20 +16,16 @@
 
 ```js
 const eu = {
-  nome: "[SEU NOME]",
-  cidade: "[SUA CIDADE/ESTADO], Brasil 🇧🇷",
-  estudando: ["[TECNOLOGIA 1]", "[TECNOLOGIA 2]"],
-  construindo: "[O QUE VOCÊ ESTÁ FAZENDO AGORA]",
-  superpoder: "[ex: transformar problema real em código simples]",
-  frase: "Primeiro faz funcionar, depois faz ficar bonito."
+  nome: "André",
+  cidade: "Cáceres - MT, Brasil 🇧🇷",
+  construindo: "Buscando novas oportunidade",
+  superpoder: "Faço tudo e mais um pouco",
 };
 ```
 
 ## 🌱 Jornada atual
 
-- 🔭 Agora estou estudando **[TECNOLOGIA]**
-- 🛠️ Mexendo em **[PROJETO PEQUENO, mesmo que seja um teste]**
-- 💡 Quero aprender a fazer **[META]**
+- 🔭 Agora estou finalizando meu ensino médio ja com um pezinho na faculdade
 - 🤝 Aceito ajuda, dicas e parcerias em projetos pequenos
 
 ## 🧰 Ferramentas que uso (ou estou aprendendo)
@@ -44,14 +40,6 @@ const eu = {
 
 > Troque pelos badges que combinam com você em [shields.io](https://shields.io) ou [simpleicons.org](https://simpleicons.org).
 
-## 📓 Meu "commit log" de vida
-
-| Quando | O que mudou |
-|--------|-------------|
-| `hoje` | Criei este perfil e comecei a documentar minha evolução |
-| `[mês/ano]` | Primeiro projeto: **[nome do projeto]** |
-| `[mês/ano]` | Aprendi **[algo novo]** e quebrei o código 3 vezes antes de funcionar |
-| `em breve` | **[próximo objetivo]** |
 
 ## 📌 Projetos (pequenos, mas reais)
 
@@ -62,18 +50,11 @@ const eu = {
 
 > 💬 Cada projeto aqui é um degrau. Os maiores vêm depois.
 
-## 🎲 Fatos aleatórios
-
-- ☕ [Sua bebida de programação favorita]
-- 🎧 [Música/playlist que te acompanha enquanto codifica]
-- 🎮 [Hobby fora do código]
-- 😅 Já passei [X] horas procurando um erro que era uma vírgula
-
 ## 📫 Vamos conversar?
 
-- 💼 LinkedIn: [seu link]
-- 📧 E-mail: [seu e-mail]
-- 📸 Instagram: [opcional]
+- 📖 Lattes:  (https://lattes.cnpq.br/7015499608530537)
+- 💼 LinkedIn: (https://www.linkedin.com/in/andre-parron/)
+- 📧 E-mail: mail:andreparron2009@gmail.com
 
 ---
 
