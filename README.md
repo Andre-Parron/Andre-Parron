@@ -17,7 +17,7 @@
 ```js
 const eu = {
   nome: "André",
-  cidade: "Cáceres - MT, Brasil 🇧🇷",
+  cidade: "Cáceres - MT, Brasil",
   construindo: "Buscando novas oportunidade",
   superpoder: "Faço tudo e mais um pouco",
 };
@@ -30,7 +30,7 @@ const eu = {
 
 ## 🧰 Ferramentas que uso (ou estou aprendendo)
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="[https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white](https://img.shields.io/badge/Claude_Code-555?logo=claude)"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
