@@ -10,7 +10,7 @@
 
 ```js
 const eu = {
-  nome: "André",
+  nome: "André Parron Alves",
   cidade: "Cáceres - MT, Brasil",
   construindo: "Buscando novas oportunidade",
   superpoder: "Faço tudo e mais um pouco",
